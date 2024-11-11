@@ -1,0 +1,4 @@
+# Ignore the Yelp dataset
+yelp_academic_dataset_business.json
+
+.ipynb_checkpoints
